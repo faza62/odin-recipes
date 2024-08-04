@@ -22,6 +22,7 @@
     display: inline;
     padding: 8px;
     background-color: yellowgreen;
+    border-radius: 6px;
 }
 
 .content {
@@ -33,4 +34,8 @@
 ul {
     list-style-type: square;
     color: darkseagreen;
+}
+
+a:hover {
+    background-color: bisque;
 }
